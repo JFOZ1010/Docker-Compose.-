@@ -1,0 +1,15 @@
+Sistemas Operativos.
+
+Docente:
+
+* Jhon Alexander Bolaños. 
+
+Integrantes:
+
+* Juan Felipe Osorio Zapata. 
+* Cristian Duvan Machado. 
+* Juan Sebastian Camino Munoz.
+
+Tarea, contenerización Docker Conexión web, con Docker-Compose up. 
+
+
